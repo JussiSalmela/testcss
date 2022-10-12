@@ -5,7 +5,7 @@ http://ionicframework.com/docs/theming/ */
 :root {
    /** primary **/
    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-   --ion-text-color: #d60909 !important;
+   --ion-text-color: #333333;;
    --ion-color-primary: #3880ff;
    --ion-color-primary-rgb: 56, 128, 255;
    --ion-color-primary-contrast: #ffffff;
